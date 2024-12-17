@@ -1,4 +1,4 @@
-export default function MealDetailPage({ params }) {
+export default function MealDetailsPage({ params }) {
   return (
     <main>
       <h1>Meal Detail</h1>
